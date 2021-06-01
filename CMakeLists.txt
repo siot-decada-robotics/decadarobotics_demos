@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5.0)
 
-project(decadarobotics_freefleet)
+project(decadarobotics_demos)
 
 #===============================================================================
 
