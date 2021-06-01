@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>decadarobotics_freefleet</name>
+  <name>decadarobotics_demos</name>
   <version>1.0.0</version>
   <description>Package of scripts for freefleet launch</description>
   <maintainer email="siotrobotics@gmail.com">Decada Robotics</maintainer>
