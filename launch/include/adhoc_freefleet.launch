@@ -3,7 +3,6 @@
 	<arg name="fleet_name" default="fake_fleet"/>
 	<arg name="dds_domain" default="42" />
 
-
   <group ns = "$(arg robot_name)">
 		<node name="fake_action_server" pkg="free_fleet_client_ros1" 
 			type="fake_action_server"/>
